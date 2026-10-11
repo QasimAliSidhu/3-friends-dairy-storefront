@@ -1,0 +1,17 @@
+[
+  {
+    "id": "hero",
+    "prompt": "Use case: product-mockup. Asset type: wide hero photograph for a new Lahore Pakistani desi ghee and dahi storefront. Primary request: create a premium editorial food photograph of traditional Pakistani desi ghee and thick white dahi served at breakfast. Scene: warm beige plaster and stone courtyard, softly lit by morning sunlight, subtle out-of-focus traditional Lahore architectural arch in far background. Subject: a short clear cylindrical glass jar filled with golden yellow desi ghee with simple unprinted cream paper label, lid sitting nearby; a rustic ivory ceramic bowl filled with thick creamy white dahi, delicate spoon swirl; fresh layered paratha on a small plate and a wooden spoon holding ghee. Composition: landscape 3:2 frame, products occupy center and lower-middle, leave generous calm sunlit background above, photographed at tabletop level slightly elevated. Photorealistic commercial food photography, natural textures, minimal props, warm cream, golden yellow, muted olive accents. No people, no lettering, no logos, no watermark. These are illustrative product concept photos, not a real business photograph.",
+    "transparent_background": false
+  },
+  {
+    "id": "ghee",
+    "prompt": "Use case: product-mockup. Asset type: square ecommerce product photograph for Pakistani desi ghee. Primary request: create a realistic premium catalog photo of a short clear cylindrical glass jar filled with golden yellow grainy desi ghee, simple unprinted cream paper label with thin deep olive border, brushed brass screw lid placed beside it. A small wooden spoon holds a little ghee in front of the jar. Backdrop: warm ivory plaster wall and pale sandy stone surface, minimal sophisticated styling. Composition: square image, jar fully visible with breathing room around it, product centered, strong tactile detail, tasteful long soft sunlight shadow cast to the right, morning natural light from upper left. Rich golden ghee, pale cream background, muted earthy palette. No text, no logos, no watermark, no additional food. This is an illustrative packaging concept.",
+    "transparent_background": false
+  },
+  {
+    "id": "dahi",
+    "prompt": "Use case: product-mockup. Asset type: square ecommerce product photograph for Pakistani fresh dahi. Primary request: create a realistic premium food catalog photo of a low round rustic ivory ceramic bowl filled with thick creamy white traditional Pakistani dahi with an appetizing subtle smooth spoon swirl, ceramic saucer beneath, small stainless steel spoon beside bowl. Backdrop: warm ivory plaster wall and pale sandy stone surface matching a premium desi ghee product photo collection. Composition: square image, bowl fully visible with breathing room around it, product centered slightly lower, shot at a gentle elevated angle so the thick white yogurt is visible, strong tactile ceramic details, tasteful long soft sunlight shadow to the right, morning natural light from upper left. Muted cream, pale stone, tiny olive linen cloth in lower corner. No text, no logos, no watermark, no garnishes. This is an illustrative food concept.",
+    "transparent_background": false
+  }
+]
