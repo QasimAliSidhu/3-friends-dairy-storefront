@@ -1,0 +1,20 @@
+{
+  "tag": "v0.1.0-demo",
+  "title": "3 Friends Dairy Storefront \u2014 public workflow demo",
+  "publish_at_utc": "2026-10-14T13:47:00+00:00",
+  "deadline_utc": "2026-10-14T18:59:59+00:00",
+  "assets": [
+    {
+      "path": "docs/demo.gif",
+      "name": "demo.gif",
+      "content_type": "image/gif",
+      "sha256": "c964dea0dac0c34c2e59a8bf752cf43818fae4b333bfdb5d74a2316219fdca03"
+    },
+    {
+      "path": "docs/demo.mp4",
+      "name": "demo.mp4",
+      "content_type": "video/mp4",
+      "sha256": "a8b20d7c79a90c91e1e253a8cfd5e4cc9b9ce9f475c5e9e6dc9cb7ec5f511e6d"
+    }
+  ]
+}
