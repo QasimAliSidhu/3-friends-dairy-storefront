@@ -11,6 +11,7 @@ root = Path(__file__).resolve().parent
 handler = partial(SimpleHTTPRequestHandler, directory=str(root / "dist"))
 server = ThreadingHTTPServer(("127.0.0.1", args.port), handler)
 url = f"http://127.0.0.1:{server.server_address[1]}"
+(root / "preview").mkdir(exist_ok=True)
 (root / "preview" / "local-url.txt").write_text(url + "\n", encoding="utf-8")
 print(f"3 Friends local preview: {url}", flush=True)
 print("Serves only the new project's dist directory. Press Ctrl+C to stop.", flush=True)
